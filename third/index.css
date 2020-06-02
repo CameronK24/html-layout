@@ -1,0 +1,48 @@
+section {
+    width: 100vw;
+    height: 13.3vh;
+}
+
+#first {
+    background-color: darkgray;
+    padding: 12px 30px;
+    width: auto;
+    height: 90px;
+}
+
+#square {
+    background-image: url("Alpharads luigi.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: royalblue;
+    width: 90px;
+    height: 90px;
+}
+
+#second {
+    background-color: white;
+    height: 210px;
+}
+
+#my-apology {
+    font-family: sans-serif;
+    font-size: 24px;
+    margin: 100px 150px;
+}
+
+#third {
+    background-color: royalblue;
+}
+
+#fourth {
+    background-color: teal;
+}
+
+#fifth {
+    background-color: greenyellow;
+}
+
+#sixth {
+    background-color: yellow;
+}
